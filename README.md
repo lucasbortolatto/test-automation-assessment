@@ -37,7 +37,7 @@ For "TC003 - Validate invoice details" I have identified some typos on following
 - NodeJS (It was used version 20.x)
 - Google Chrome installed
 
-###
+#### Steps
 1. Clone this repository;
 2. Run `npm install` and wait for installation finish;
 3. Optional: Open the project on your favorite IDE;
