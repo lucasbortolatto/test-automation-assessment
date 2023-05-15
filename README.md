@@ -7,7 +7,7 @@ These tests were created as a challenge to automate three scenarios using cypres
 
 - TC001 - Login (Positive) Test
 - TC002 - Login (Negative) Tests
-- TC003 - Validate invoice detais
+- TC003 - Validate invoice details
 
 ### Author
 Luidson Lucas Bortolatto
@@ -15,7 +15,7 @@ Luidson Lucas Bortolatto
 
 ### Important Informations
 
-To automate these scenarios I have created a simple structure, keeping login tests in a file and invoice tests in a separeted file.
+To automate these scenarios I have created a simple structure, keeping login tests in a file and invoice tests in a separeted file and using "describe" and "it".
 
 I have created three custom commands for repeated and generic actions (.ie type username and password) on /support/commands.js.
 

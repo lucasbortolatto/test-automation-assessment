@@ -1,5 +1,5 @@
 describe('TC003 - Validate invoice detais', () => {
-  it('should validate date displayd on invoice detais', () => {
+  it('should validate date displayd on invoice details', () => {
     cy.visit('#')
     cy.login('demouser','abc123')
     cy.openInvoiceDetails(1)
